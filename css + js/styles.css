@@ -271,7 +271,7 @@ section#section1::before {
   border-top: 1px solid #7895CB;
   padding: 20px;
 }
-@media (min-width: 780px) {
+@media (min-width: 1400px) {
   .c-faqs {
       position: relative;
       margin-left: auto;
